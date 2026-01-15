@@ -20,6 +20,15 @@ data-driven testing, and request chaining.
 - Request chaining and cleanup logic
 - Response time and header validation
 
+## Assertions & Validations
+- Status code validation
+- Response body schema checks
+- Business logic validation (book added → retrievable → deletable)
+- Error handling using try/catch blocks
+
+## Test Execution
+Tests are executed using Postman Collection Runner with CSV-driven inputs.
+
 ## Tools & Technologies
 - Postman
 - JavaScript
