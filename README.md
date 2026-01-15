@@ -32,6 +32,3 @@ data-driven testing, and request chaining.
 2. Import the CSV file from `data/`
 3. Set `base_url` and environment variables
 4. Run the collection manually or using Newman
-
-## Author
-Mahadi Hasan Kamrul
